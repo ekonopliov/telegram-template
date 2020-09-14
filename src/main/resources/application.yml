@@ -3,7 +3,7 @@ server:
 
 telegram:
   bot:
-    token: 1169486208:AAHJh2v5Iwe6b594QLq9qyKMaXpNLHSDTtw  #token from @BotFather
+    token: TOKEN  #token from @BotFather
 
 spring:
   jackson:
