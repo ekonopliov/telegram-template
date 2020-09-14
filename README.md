@@ -1,4 +1,4 @@
-# telegram-template
+# Telegram Bot Quickstart Template
  Sample telegram template
  
 # Build and run
